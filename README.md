@@ -164,14 +164,14 @@ jupyter==1.0.0
 
 ## 📊 Sample Visualizations
 
-### Monthly Revenue Trend
-![Monthly Trend](visualizations/monthly_trend.png)
+### Quarterlt Revenue Trend
+[![Monthly Trend](visualizations/monthly_trend.png)(https://github.com/PagidimarriShiva/Amazon_Sales_EDA/blob/main/Visulizations/quarterly.png)
 
 ### Regional Performance
-![Regional Performance](visualizations/regional_performance.png)
+[![Regional Performance](visualizations/regional_performance.png)](https://github.com/PagidimarriShiva/Amazon_Sales_EDA/blob/main/Visulizations/region.png)
 
-### Product Analysis
-![Product Analysis](visualizations/product_analysis.png)
+### Seasonality Analysis
+[![Product Analysis](visualizations/product_analysis.png)](https://github.com/PagidimarriShiva/Amazon_Sales_EDA/blob/main/Visulizations/seasonality.png)
 
 ### Correlation Heatmap
 ![Correlation](visualizations/correlation_heatmap.png)
