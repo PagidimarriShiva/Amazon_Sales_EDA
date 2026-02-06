@@ -171,7 +171,7 @@ jupyter==1.0.0
 [![Regional Performance](visualizations/regional_performance.png)](https://github.com/PagidimarriShiva/Amazon_Sales_EDA/blob/main/Visulizations/region.png)
 
 ### Seasonality Analysis
-[![Product Analysis](visualizations/product_analysis.png)](https://github.com/PagidimarriShiva/Amazon_Sales_EDA/blob/main/Visulizations/seasonality.png)
+(visualizations/product_analysis.png)](https://github.com/PagidimarriShiva/Amazon_Sales_EDA/blob/main/Visulizations/seasonality.png)
 
 ### Correlation Heatmap
 ![Correlation](visualizations/correlation_heatmap.png)
